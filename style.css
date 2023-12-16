@@ -1,0 +1,14 @@
+*{margin: 0px;
+    padding: 0px;
+    }
+    
+    .home{background-color: white;
+        text-align: center;
+        padding: 20px;
+        margin: 20px;
+        word-spacing: 30px;}
+    
+    .text{text-align: center;
+        padding: 50px;
+        background-image: url("img_piramida.jpg");
+        background-repeat: no-repeat;}
